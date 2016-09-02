@@ -6,6 +6,7 @@
 	<groupId>com.ness.bpmtestingframework</groupId>
 	<artifactId>activiti_bpm_automation_framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<name> BPM Automation Activiti framework POC </name>
 
 	<dependencies>
 		<dependency>
